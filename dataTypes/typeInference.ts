@@ -7,8 +7,8 @@
 let _name = "muhammad usama";
 let age = 28;
 
-function add(a: number, b: number) {
+function addNum(a: number, b: number) {
     return a + b + ""
 }
 
-console.log(add(10, 5)) 
+console.log(addNum(10, 5)) 
